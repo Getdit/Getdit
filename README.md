@@ -23,9 +23,13 @@ OBS: Most of my repositories are private :sweat_smile: Then, if you want know so
   <a href="https://github.com/Getdit">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Getdit&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
- 
+  <div>
+  <a href="https://github.com/Getdit">
+  <img height="180em" src="https://github.com/Getdit/Getdit/blob/output/github-contribution-grid-snake.svg"/>
+</div>
 <div> 
   <a href="https://instagram.com/che_gcr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:duducpribeiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardo-chedid" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
