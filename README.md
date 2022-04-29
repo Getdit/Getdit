@@ -3,7 +3,7 @@
 
 #### > I'm a Multimedia Technician by Federal Institute of Education, Science and Technology of Rio Grande do Sul -  with enphasis in competitive programming, WEB development and research in Virtual Programmable Networks
 
-#### > I'm cursing Computer Engineering at the Federal University of Santa Catarina. 
+#### > I'm studying Computer Engineering at the Federal University of Santa Catarina. 
 
 #### > I’m currently working with WEB development focused in IoT, with enphasis in Alexa Smart Home Skills development and Google Smart Home Actions development
 
