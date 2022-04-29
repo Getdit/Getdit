@@ -25,7 +25,7 @@ OBS: Most of my repositories are private :sweat_smile: Then, if you want know so
 </div>
   <div>
   <a href="https://github.com/Getdit">
-  <img height="180em" src="https://github.com/Getdit/Getdit/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/Getdit/Getdit/blob/output/github-contribution-grid-snake.svg"/>
 </div>
 <div> 
   <a href="https://instagram.com/che_gcr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
