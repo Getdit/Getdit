@@ -9,16 +9,24 @@
 
 OBS: Most of my repositories are private :sweat_smile: Then, if you want know some of my work, here are some links:
 <ul>
-  <li><a target="blank" href="https://eventos.ifrs.edu.br/index.php/Salao_IFRS/5salao/paper/view/10094r">APP2NET: UMA MARKETPLACE PARA REDES VIRTUAIS PROGRAMÁVEIS</li>
-  <li><a target="blank" href="https://ajalmeida.com.br">Almeida Autopeças</li>
-  <li><a target="blank" href="https://digitalli.com.br">Digitalli Energia Solar</li>
-  <li><a target="blank" href="https://digitalli-iot.com.br">Digitalli Eletrônica e Automação</li>
-  <li><a target="blank" href="https://editorailustracao.com.br">Editora Ilustração</li>
-  <li><a target="blank" href="https://editorametrics.com.br">Editora Métrics</li>
-  <li><a target="blank" href="https://livedoctorcontabilidade.com.br">Live Doctor Contabilidade</li>
+  <li><a target="blank" href="https://eventos.ifrs.edu.br/index.php/Salao_IFRS/5salao/paper/view/10094r">APP2NET: UMA MARKETPLACE PARA REDES VIRTUAIS PROGRAMÁVEIS</a></li>
+  <li><a target="blank" href="https://ajalmeida.com.br">Almeida Autopeças</a></li>
+  <li><a target="blank" href="https://digitalli.com.br">Digitalli Energia Solar</a></li>
+  <li><a target="blank" href="https://digitalli-iot.com.br">Digitalli Eletrônica e Automação</a></li>
+  <li><a target="blank" href="https://editorailustracao.com.br">Editora Ilustração</a></li>
+  <li><a target="blank" href="https://editorametrics.com.br">Editora Métrics</a></li>
+  <li><a target="blank" href="https://livedoctorcontabilidade.com.br">Live Doctor Contabilidade</a></li>
 </ul>
 <hr>
-
+#### > My skills
+<div>
+  <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" widht="128" height="128" alt="HTML">
+  <img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-6.png" widht="128" height="128" alt="CSS">
+  <img src="https://logospng.org/download/javascript/logo-javascript-icon-256.png" widht="128" height="128" alt="JavaScript">
+  <img src="https://github.com/Getdit/Getdit/blob/output/python.png" height="128" alt="Python 3">
+  <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" widht="128" height="128" alt="Django">
+</div>
+<hr>
 #### You can contact me by:
 <div> 
   <a href="https://instagram.com/che_gcr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
