@@ -18,16 +18,18 @@ OBS: Most of my repositories are private :sweat_smile: Then, if you want know so
   <li><a target="blank" href="https://livedoctorcontabilidade.com.br">Live Doctor Contabilidade</a></li>
 </ul>
 <hr>
-#### > My skills
+<h4> > My skills</h4>
 <div>
-  <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" widht="128" height="128" alt="HTML">
-  <img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-6.png" widht="128" height="128" alt="CSS">
-  <img src="https://logospng.org/download/javascript/logo-javascript-icon-256.png" widht="128" height="128" alt="JavaScript">
-  <img src="https://github.com/Getdit/Getdit/blob/output/python.png" height="128" alt="Python 3">
-  <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" widht="128" height="128" alt="Django">
+  <img src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png" height="64" alt="HTML" style="margin-top:0px">
+  <img src="https://github.com/Getdit/Getdit/blob/output/python.png" height="64" alt="Python 3">
+  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" height="64" alt="Django" style="margin-top:0px">
+  <img src="https://github.com/Getdit/Getdit/blob/output/rest.png" height="64" alt="Django Rest Framework" style="margin-top:1px; border-radius:200px;">
+  <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" widht="64" height="64" alt="HTML">
+  <img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-6.png" widht="64" height="64" alt="CSS">
+  <img src="https://github.com/Getdit/Getdit/blob/output/js.png" widht="64" height="64" alt="JavaScript">
 </div>
 <hr>
-#### You can contact me by:
+<h4>You can contact me by:</h4>
 <div> 
   <a href="https://instagram.com/che_gcr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:duducpribeiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
