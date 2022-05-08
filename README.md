@@ -37,10 +37,5 @@ OBS: Most of my repositories are private :sweat_smile: Then, if you want know so
   <img src="https://github.com/Getdit/Getdit/blob/output/github-contribution-grid-snake.svg"/>
   </a>
 </div>
- <div>
-  <a href="https://github.com/Getdit">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Getdit"/>
-  </a>
- </div>
 
 
