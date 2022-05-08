@@ -20,13 +20,15 @@ OBS: Most of my repositories are private :sweat_smile: Then, if you want know so
 <hr>
 <h4> > My skills</h4>
 <div>
-  <img src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png" height="64" alt="HTML" style="margin-top:0px">
+  <img src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png" height="51,5" alt="HTML" style="margin-top:12,5px">
   <img src="https://github.com/Getdit/Getdit/blob/output/python.png" height="64" alt="Python 3">
-  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" height="64" alt="Django" style="margin-top:0px">
-  <img src="https://github.com/Getdit/Getdit/blob/output/rest.png" height="64" alt="Django Rest Framework" style="margin-top:1px; border-radius:200px;">
-  <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" widht="64" height="64" alt="HTML">
-  <img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-6.png" widht="64" height="64" alt="CSS">
-  <img src="https://github.com/Getdit/Getdit/blob/output/js.png" widht="64" height="64" alt="JavaScript">
+  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" height="51,5" alt="Django" style="margin-top:12,5px;">&nbsp;
+  <img src="https://github.com/Getdit/Getdit/blob/output/rest.png" height="51,5" alt="Django Rest Framework" style="margin-top:12,5px;">
+  <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" height="64" alt="HTML">
+  <img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-6.png" height="64" alt="CSS">
+  <img src="https://github.com/Getdit/Getdit/blob/output/js.png" height="64" alt="JavaScript">
+  <img src="https://github.com/Getdit/Getdit/blob/output/alexa.png" width="80" alt="Alexa" >
+  <img src="https://github.com/Getdit/Getdit/blob/output/google.png" height="50" alt="Google Assistant" style="margin-bottom:20px">
 </div>
 <hr>
 <h4>You can contact me by:</h4>
