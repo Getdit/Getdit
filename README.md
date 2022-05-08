@@ -21,13 +21,13 @@ OBS: Most of my repositories are private :sweat_smile: Then, if you want know so
 <h4> > My skills</h4>
 <div>
   <img src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png" height="51,5" alt="HTML" style="margin-top:12,5px">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Apache_HTTP_server_logo_%282019-present%29.svg/480px-Apache_HTTP_server_logo_%282019-present%29.svg.png?20210416075503g" height="51,5" alt="Apache 2" style="margin-top:12,5px;"><br><br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Apache_HTTP_server_logo_%282019-present%29.svg/480px-Apache_HTTP_server_logo_%282019-present%29.svg.png?20210416075503g" height="51,5" alt="Apache 2" style="margin-top:12,5px;">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Getdit/Getdit/blob/output/python.png" height="64" alt="Python 3">&nbsp;&nbsp;&nbsp;
   <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" height="51,5" alt="Django" style="margin-top:12,5px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Getdit/Getdit/blob/output/rest.png" height="51,5" alt="Django Rest Framework" style="margin-top:12,5px;"><br><br>
+  <img src="https://github.com/Getdit/Getdit/blob/output/rest.png" height="51,5" alt="Django Rest Framework" style="margin-top:12,5px;">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" height="64" alt="HTML">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-6.png" height="64" alt="CSS">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Getdit/Getdit/blob/output/js.png" height="64" alt="JavaScript"><br><br>
+  <img src="https://github.com/Getdit/Getdit/blob/output/js.png" height="64" alt="JavaScript">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Getdit/Getdit/blob/output/alexa.png" width="80" alt="Alexa" >&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Getdit/Getdit/blob/output/google.png" height="50" alt="Google Assistant" style="margin-bottom:20px">
 </div>
