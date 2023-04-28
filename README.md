@@ -10,12 +10,9 @@
 OBS: Most of my repositories are private :sweat_smile: Then, if you want know some of my work, here are some links:
 <ul>
   <li><a target="blank" href="https://eventos.ifrs.edu.br/index.php/Salao_IFRS/5salao/paper/view/10094r">APP2NET: UMA MARKETPLACE PARA REDES VIRTUAIS PROGRAMÁVEIS</a></li>
-  <li><a target="blank" href="https://ajalmeida.com.br">Almeida Autopeças</a></li>
   <li><a target="blank" href="https://digitalli.com.br">Digitalli Energia Solar</a></li>
-  <li><a target="blank" href="https://digitalli-iot.com.br">Digitalli Eletrônica e Automação</a></li>
   <li><a target="blank" href="https://editorailustracao.com.br">Editora Ilustração</a></li>
   <li><a target="blank" href="https://editorametrics.com.br">Editora Métrics</a></li>
-  <li><a target="blank" href="https://livedoctorcontabilidade.com.br">Live Doctor Contabilidade</a></li>
 </ul>
 <hr>
 <h4> > My skills</h4>
